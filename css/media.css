@@ -1,0 +1,744 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    .menu-top ul li a {
+        font-size: 9pt;
+    }
+    .btn.btn-custm.dropdown-toggle {
+        font-size: 9pt;
+        padding: 6px 0px;
+    }
+    .menu-top ul li {
+        margin: 0 4px;
+    }
+    .dropdown-menu {
+        min-width: 90px;
+    }
+    .area-text-l h4 {
+        font-size: 21px;
+    }
+    .logo-area img {
+        width: 110px;
+        height: auto;
+    }
+    .area-text-l {
+        float: right;
+        margin-top: 40px;
+    }
+    .chart-inp1 li a {
+        font-size: 9px;
+    }
+    .f-right {
+        margin-left: 2px;
+    }
+    .ps-btn {
+        padding: 8px 10px;
+    }
+    .m-d-v{
+        display:none;
+    }
+    .m-d-b {
+        width: 58%;
+        margin-top: 1.2%;
+    }
+    .text-btn button {
+        font-size: 14px;
+    }
+    /*Header part ends*/
+    .slider{
+        min-height: 220px;
+    }
+    #footer_top .right_part .table td{
+        font-size: 12px;
+    }
+    #footer_top .last_menu li a {
+        background: #939393;
+        padding: 6px 4px;
+        color: #fff;
+        font-size: 10px;
+    }
+    #footer_top .last_menu dis-b{
+        display: none;
+    }
+    #footer_top .thread li{
+        padding: 3px 0px;
+    }
+    #footer_top .thread{
+        padding-top: 6px;
+    }
+    .ful{
+        display: none;
+    }
+    .ful2{
+        width: 100%;
+    }
+    #footer_top .thread li a{
+        font-size: 12px;
+    }
+    #footer_top .right_part .table th{
+        padding: 0px;
+    }
+    #footer_top .bg2{
+        padding-bottom: 6px;
+    }
+    #footer_top .bg{
+        padding-bottom: 50px;
+    }
+    .col-cus-1, .col-cus-2{
+        width: 100%;
+    }
+    /*footer_top part ends*/
+    .btn.btn-primary.dropdown-toggle {
+        padding: 4px 22px !important;
+        margin-left: 2px;
+    }
+    .sec-block{
+        margin-left: 0px;
+    }
+    .head-foot h4 {
+        font-size: 13pt;
+        position: absolute;
+        margin-top: -30px;
+        margin-left: 27px;
+    }
+    .links-f ul li a{
+        font-size: 13pt;
+    }
+    .head-foot p {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .copyrigt p{
+        font-size: 14px;
+    }
+	.tab-pane-area .nav-justified > li {
+		display: table-cell !important;
+		width: 1% !important;
+	}
+	.tab-pane-area .nav > li > a {
+		padding: 10px 0 !important;
+	}
+	#login {
+		width: 75% !important;
+	}
+    .forum-body .profile .person h3 {
+        font-size: 14px;
+    }
+}
+@media(min-width:800px) and (max-width:991px){
+    .text-btn button {
+        font-size: 12px;
+    }
+    .menu-top ul li a {
+        font-size: 9pt;
+    }
+    .btn.btn-custm.dropdown-toggle {
+        font-size: 9pt;
+        padding: 6px 0px;
+    }
+    .menu-top ul li {
+        margin: 0 4px;
+    }
+    .dropdown-menu {
+        min-width: 90px;
+    }
+    .area-text-l h4 {
+        font-size: 16px;
+    }
+    .logo-area img {
+        width: 90px;
+        height: auto;
+        margin-top: 40%;
+    }
+    .area-text-l {
+        float: right;
+        margin-top: 40px;
+    }
+    .chart-inp1 li a {
+        font-size: 6px;
+    }
+    .f-right {
+        margin-left: 1px;
+    }
+    .ps-btn {
+        padding: 8px 10px;
+    }
+    .m-d-v{
+        display:none;
+    }
+    .m-d-b{
+        width:58%;
+        margin-top: 3%;
+    }
+    .topnav input[type="text"] {
+        padding: 13px 11px;
+        font-size: 11px;
+        width: 100%;
+        line-height: 17px;
+    }
+    .fa.fa-search.cst {
+        position: absolute;
+        right: -25px;
+        top: 0;
+    }
+    .chart-inp1 li {
+        margin-bottom: 15%;
+    }
+    .text-btn button {
+        font-size: 12px;
+    }
+    /*Header part ends*/
+    .ful{
+        display: none;
+    }
+    .ful2{
+        width: 100%;
+    }
+    .btn.btn-primary.dropdown-toggle {
+        padding: 4px 22px !important;
+        margin-left: 2px;
+    }
+    .sec-block{
+        margin-left: 0px;
+    }
+    .head-foot h4 {
+        font-size: 13pt;
+        position: absolute;
+        margin-top: -30px;
+        margin-left: 27px;
+    }
+    .links-f ul li a{
+        font-size: 13pt;
+    }
+    .head-foot p {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .copyrigt p{
+        font-size: 14px;
+    }
+    .forum-body .profile #about .table > tbody > tr > td {
+        font-size: 16px;
+        color: #8b8b8b;
+        padding: 15px 10px 15px 30px;
+        width: 110px;
+    }
+	#login {
+		width: 100% !important;
+	}
+	.nav-justified > li {
+		display: inherit !important;
+		width: 100% !important;
+		margin-left: 0 !important;
+	}
+	.btn.btn-primary.dropdown-toggle {
+		padding: 6px 15px !important;
+	}
+    /*Header part ends*/
+    .images-lla h4 {
+        font-size: 12pt;
+    }
+    .forum-body .profile .person h3 {
+        font-size: 14px;
+    }
+    
+
+}
+/*-------------Tablet part ends-----------------*/   
+
+@media(min-width:320px) and (max-width:799px){
+    .menu-top ul {
+        margin: 0;
+    }
+    .menu-top ul li {
+        display: block;
+        text-align: left;
+        margin: 0;
+    }
+    #myDIV {
+        display: none;
+    }
+    .f-a-right {
+        display:block;
+        cursor: pointer;
+    }
+    .topnav .search-container {
+        float: none;
+    }
+    .btn.btn-custm.dropdown-toggle {
+        padding: 0;
+    }
+    .chart-area {
+        display: none;
+    }
+    #sear-btn { 
+        display: none;
+    }
+    .second-top {
+        background-color: transparent;
+        position: inherit;
+    }
+    .menu-area-top {
+        height: 72px;
+        width: 100%;
+    }
+    .logo-area img {
+        width: 18%;
+        height: auto;
+        float: left;
+        margin-top: 5px;
+    }
+    .second-top {
+        background-color: #27643c;
+        position: inherit;
+    }
+    #mySearch{
+        display:block;
+    }
+    .topnav .search-container .cst {
+        margin-right: 19px;
+    }
+    .chart-inp1 img {
+        margin-bottom: 25px;
+    }
+    .setting {
+        right: 90px !important;
+        top: 25px !important;
+    }
+    .area-text-l h4 {
+        font-size: 10px;
+    }
+    .area-text-l p {
+        font-size: 10px;;
+    }
+    .area-text-l {
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+    #dblock {
+        position: absolute;
+        top: 62px;
+        left: 0;
+        width: 95%;
+        z-index: 9999;
+        background: #f0f0f0;
+    }
+    .topnav input[type="text"] {
+        padding: 10px 31px;
+    }
+    .dropdown-menu {
+        left: 0;
+    }
+    .chart-inp1 li a{
+        color: #27643c;
+    }
+    #forum p {
+        padding: 15px 10px 12px 10px;
+        text-align: justify;
+    }
+	.fourm-tb tr:first-child {
+		background-color: #fff;
+	}
+    /*Header part ends*/
+    .slider p {
+        font-size: 10px;
+        padding-bottom: 11px;
+        text-align: left;
+    }
+    .text-btd p{
+        font-size: 12px;
+        /*width: 220px;*/
+    }
+    .text-btd span{
+        font-size: 14px;
+    }
+    .all-rl p{
+        font-size: 12px;
+    }
+    .spn-cklr{
+        margin-left: 0px;
+    }
+    .all-rl {
+    }
+	.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
+		font-size: 62px;
+		position: absolute;
+		left: -15px;
+		right: auto;
+		top: 14%;
+		color: #aaaaaa;
+	}
+	.owl-carousel .owl-nav button.owl-next {
+		font-size: 62px;
+		position: absolute;
+		left: auto;
+		right: -15px;
+		top: 14%;
+		color: #aaaaaa;
+	}
+	.slider h6 {
+        font-size: 12px;
+        font-family: proxima;
+        color: #626262;
+        float: left;
+        padding-bottom: 20px;
+    }
+	.slider{
+		background: #fff;
+		padding: 16px;
+		min-height: 220px;
+		border-radius: 5px;
+	}
+    #forex .field {
+        margin-top: 20px;
+    }
+    .ful{
+        display: none;
+    }
+    .ful2{
+        width: 100%;
+    }
+    /*Slider part ends*/
+    /*Task 1 is start*/
+    .forum-body .profile #about .table > tbody > tr > td {
+        font-size: 16px;
+        color: #8b8b8b;
+        padding: 15px 10px 15px 30px;
+        width: 110px;
+    }
+    #about .table > tbody > tr > td {
+        padding: 20px 5px 20px 5px;
+    }
+    .forum-body .profile .part {
+        background: #fff;
+        padding-left: 10px;
+    }
+    /*Task 1 is ends*/
+    .nav-justified > li {
+		display: inherit !important;
+		width: inherit !important;
+		margin-left: 0 !important;
+	}
+	body {
+		overflow-x: hidden;
+	}
+	#login {
+		width: 100%;
+	}
+    /*footer part start*/
+    .sec-block {
+        padding-left: 0px;
+    }
+    footer {
+        padding: 34px 0 25px;
+        margin-top: 30px;
+    }
+    .images-lla h4{
+        font-size: 12pt;
+    }
+    .btn.btn-primary.dropdown-toggle {
+        padding: 4px 11px !important;
+        margin-left: 2px;
+    }
+    .copyrigt p {
+        font-size: 7pt;
+        margin-top: 6px;
+    }
+    .third-block ul li {
+        display: block;
+    }
+	.links-f {
+		padding-bottom: 30px;
+	}
+	.links-f .box{
+		text-align: center;
+	}
+	.links-f ul{
+		display: inline-block;
+	}
+    .links-f ul li {
+        display: block;
+        text-align: left;
+    }
+    .links-f ul li a{
+        font-size: 16px;
+    }
+    /*footer part ends*/
+    .owl-carousel .owl-item img {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+    }
+    .slider h4{
+        padding-top: 10px;
+    }
+    .sec-block{
+        display: inline-block;
+    }
+    .head-foot h4 {
+        position: absolute;
+        margin-top: -30px;
+        margin-left: 25px;
+    }
+    .images-lla{
+        text-align: center;
+    }
+	
+    .dropdown-menu {
+        min-width: 100%;
+    }
+    .sec-block {
+        padding-left: 0;
+        margin-left: 0;
+        border: none;
+        margin-top: 20px;
+    }
+    .head-foot p {
+        margin: 20px 0px;
+    }
+    .head-foot h4 {
+        margin-top: -42px;
+        font-size: 16px;
+    }
+    .third-block {
+        text-align: center;
+    }
+    .img-cmt-box ul {
+        text-align: center;
+    }
+    .button-post {
+        float: none;
+        text-align: center;
+    }
+    .rows{
+        background: #fff;
+    }
+    #about h4 {
+        padding: 15px 5px 13px 5px;
+    }
+    #widgets .first{
+        padding: 15px 15px;
+    }
+    #widgets .left p {
+        padding: 21px 0px;
+    }
+    .checkbox label, .radio label {
+        margin-top: 7px;
+    }
+    #login_form2 .level .first {
+        padding: 15px 15px;
+    }
+    #login_form2 .level p {
+        padding: 15px 0px;
+    }
+    #login_form2 .level .table td {
+        padding: 0px 15px;
+        padding-left: 0px;
+    }
+
+    
+}
+@media(min-width:768px) and (max-width:991px){
+    #about .table > tbody > tr > td {
+        padding: 20px 10px 20px 30px;
+    }
+    #about h4 {
+        padding: 15px 0px 13px 30px;
+        font-family: proxinova_reg;
+        color: #fff;
+    }
+}
+/*320 to 799 part ends*/
+@media(min-width:320px) and (max-width:767px){
+	.two-button label {
+		padding-left: 0;
+		margin-top: 10px;
+	}
+	.third-block ul li {
+		display: block;
+	}	
+	#forex .field {
+		margin-top: 30px;
+	}
+	.cmg-img.margin-zero img {
+		width: 100% !important;
+	}
+    #about h4 {
+        text-align: center;
+    }
+    
+}
+/*320 to 767 part ends*/
+@media(min-width:360px) and (max-width:550px){
+    .menu-area-top {
+        height: 90px;
+        width: 100%;
+    }
+    .topnav .search-container {
+        float: left;
+    }
+    .topnav .search-container .cst {
+        padding: 12px 10px;
+        font-size: 18px;
+    }
+    .topnav input[type="text"] {
+        padding: 10px 15px;
+    }
+    .text-btn button {
+        font-size: 11px;
+    }
+    .logo-area img {
+        width: 15%;
+    }
+    #dblock {
+        top: 81px;
+    }
+}
+/*360 to 360 part ends*/
+@media only screen and (width: 560px){
+    .logo-area img {
+        width: 10%;
+    }
+    .topnav .search-container {
+        float: left;
+    }
+}
+/*Only screen 560 part ends*/
+@media only screen and (width: 360px){
+    .menu-area-top {
+        padding-top: 3%;
+    }
+    .f-a-right {
+        margin-top: 2%;
+    }
+}
+/*Only screen 360 part ends*/
+@media(min-width:375px) and (max-width:425px){
+    .logo-area img {
+        width: 18%;
+    }
+    .area-text-l h4 {
+        font-size: 14px;
+    }
+    .area-text-l p {
+        font-size: 13px;
+    }
+    .area-text-l {
+        margin-top: 23px;
+        margin-left: 8px;
+    }
+    #mySearch {
+        top: 32px;
+    }
+    .setting {
+        top: 32px !important;
+    }
+    .f-a-right {
+        top: 32px;
+    }
+}
+/*375 to 425 part ends*/
+@media(min-width:768px) and (max-width:797px){
+    .logo-area img {
+        width: 50px;
+    }
+    .area-text-l {
+        margin-left: 0;
+    }
+
+    #mySearch {
+        top: 25px;
+    }
+    .f-a-right {
+        right: 11px;;
+    }
+    .col-sm-4.cus {
+        width: 100%;
+    }
+    .serch-btns{
+        width: auto;
+    }
+    .s-b-btn{
+        width: auto;
+    }
+    .hud{
+        display:none !important;
+    }
+    .col-sm-5.m-d-b {
+        width: 100%;
+    }
+    #dblock {
+        top: 9px;
+    }
+    /**/
+    .slider {
+        min-height: 200px;
+    }
+    #footer_top .right_part .r_top .p_tx{
+        margin-left: 0px;
+    }
+    .btn.btn-primary.dropdown-toggle {
+        margin-left: 2px;
+    }
+    .sec-block{
+        margin-left: 0px;
+    }
+    .head-foot h4 {
+        font-size: 12pt;
+        position: absolute;
+        margin-top: -42px;
+        margin-left: 27px;
+    }
+    .links-f ul li a{
+        font-size: 13pt;
+    }
+    .links-f ul li a {
+        font-size: 12pt;
+    }
+    .head-foot p {
+        font-size: 14px;
+        padding-top: 30px;
+    }
+    .third-block ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        margin-left: 0px;
+    }
+    footer {
+        padding: 40px 0 25px;
+        margin-top: 30px;
+    }
+    .copyrigt p{
+        font-size: 14px;
+    }
+    .sec-block {
+        border-left: 1px solid #fff;
+        padding-left: 20px;
+        margin-left: 20px;
+        margin-top: 0px;
+    }
+    /*768 to 797 part ends*/
+}
+
+@media(min-width:798px) and (max-width:934px){
+    .slider{
+        min-height: 220px;
+    }
+    .forum-body .profile .person h3 {
+        font-size: 16px;
+    }
+}
+/*797 to 934 part ends*/
+@media(min-width:590px) and (max-width:799px){
+    .img-cmt-box ul {
+        text-align: left;
+        margin-left: 15px;
+    }
+}
+/*590 to 799 part ends*/
+@media(min-width:768px) and (max-width:991px){
+    .forum-body .profile .person h3 {
+        font-size: 16px;
+    }
+    
+}
